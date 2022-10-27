@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "86520716447",
+    "firebase_url": "https://phone-7a9a2-default-rtdb.firebaseio.com",
+    "project_id": "phone-7a9a2",
+    "storage_bucket": "phone-7a9a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86520716447:android:db4c9f8ad78def9c2fd6aa",
+        "android_client_info": {
+          "package_name": "com.alimardon.firebasenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpJ3vg29V9xEZcwNmuLA6L4Z6jKT_Zbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86520716447:android:def2b64f26d8095b2fd6aa",
+        "android_client_info": {
+          "package_name": "com.alimardon.phonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86520716447-8etg64ghc3ju8h6hjnrq8d6qq0a765fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alimardon.phonenumber",
+            "certificate_hash": "9263f84572d6ab855642938c752d3e3dd33eabe9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpJ3vg29V9xEZcwNmuLA6L4Z6jKT_Zbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86520716447:android:3fc20f97282084522fd6aa",
+        "android_client_info": {
+          "package_name": "com.android.a27092022"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpJ3vg29V9xEZcwNmuLA6L4Z6jKT_Zbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86520716447:android:9c0af2dd3636360c2fd6aa",
+        "android_client_info": {
+          "package_name": "com.rtm.notification1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86520716447-ijenjdemvu9jqs5ak6868bsctkactltu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rtm.notification1",
+            "certificate_hash": "9263f84572d6ab855642938c752d3e3dd33eabe9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpJ3vg29V9xEZcwNmuLA6L4Z6jKT_Zbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
